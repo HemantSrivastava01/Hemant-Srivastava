@@ -9,7 +9,7 @@ Skills: Flutter / Python / HTML / CSS3 / PHP / MySQL
 
 - 🔭 I’m currently working on to build my own streaming studio. 
 - 🌱 I’m currently learning Flutter and Dart. 
-- ⚡ Fun fact: The Koh-i-Noor Diamond was once found in the Peacock Throne of the Mughals. 
+- ⚡ Fun fact: I can sleep in any position and with any noise around.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HemantSrivastava01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hemant-srivastava/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iam_hemantoo7/)  
